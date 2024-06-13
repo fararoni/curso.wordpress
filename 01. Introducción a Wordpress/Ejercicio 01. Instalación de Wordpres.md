@@ -103,10 +103,13 @@ Password: 3VV#nHUX0t3Tw8gzWg
 
 ![](https://i.imgur.com/mdzoDlO.png)
 
-![]
+![](https://i.imgur.com/7ub8gRx.png)
+
+#### 3.3 Repetir los mismos pasos para la Instancia BETA
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMjkxODc0LDYxMTYyMzQ1MSwtNjI3Nj
-I3NDc0LC01NTMzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEy
-MjY0NjU0MTEsLTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
+eyJoaXN0b3J5IjpbMTEyNjIzMzY5MSw2MTE2MjM0NTEsLTYyNz
+YyNzQ3NCwtNTUzMzQ4NjYwLDQ0MzE3MjEsLTM2ODcxODMxMiwx
+MjI2NDY1NDExLC02NjUyODQ0MjUsMTgxODU5MDIyMV19
 -->
