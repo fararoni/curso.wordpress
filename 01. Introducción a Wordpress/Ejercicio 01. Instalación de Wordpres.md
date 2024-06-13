@@ -11,6 +11,8 @@ La versión al día de hoy es 6.5.4
 
 ### 2. Xampp
 
+![Xampp](https://i.imgur.com/WMtuJ0j.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTA1MDk1MF19
+eyJoaXN0b3J5IjpbLTE4MTM0MDg3NjBdfQ==
 -->
