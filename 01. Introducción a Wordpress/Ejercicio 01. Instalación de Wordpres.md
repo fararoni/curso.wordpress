@@ -31,8 +31,9 @@ La versión al día de hoy es 6.5.4
 ![Opciones de instalación](https://i.imgur.com/5DjAwxn.png)
 
 4. Iniciar la instalación.
-5. Levantar los servicios. 
+5. Levantar los servicios Apache y MySQL
 
+![](https://i.imgur.com/T81p0JV.png)
 
 
 ## Instalar instancias de wordpress
@@ -58,11 +59,12 @@ La versión al día de hoy es 6.5.4
 | beta | beta |beta#2024|
 
 
+
 ### 3. Configurar instancias de wordpress
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM5OTIyNTYsLTU1MzM0ODY2MCw0ND
+eyJoaXN0b3J5IjpbLTIwMzE0NTAzNTUsLTU1MzM0ODY2MCw0ND
 MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
 LDE4MTg1OTAyMjFdfQ==
 -->
