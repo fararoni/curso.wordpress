@@ -84,10 +84,10 @@ La versión al día de hoy es 6.5.4
 - Usar la base de datos: **alpha** 
 - Cambiar el prefijo de la tabla: **wpalpha_**
 
-
+![](https://i.imgur.com/BCYkqX4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTk5NDk5OSwtNTUzMzQ4NjYwLDQ0Mz
+eyJoaXN0b3J5IjpbLTYyNzYyNzQ3NCwtNTUzMzQ4NjYwLDQ0Mz
 E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
 MTgxODU5MDIyMV19
 -->
