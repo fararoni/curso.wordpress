@@ -31,10 +31,12 @@ La versión al día de hoy es 6.5.4
 ![Opciones de instalación](https://i.imgur.com/5DjAwxn.png)
 
 4. Iniciar la instalación.
+5. Levantar los servicios. 
+
 
 
 ## Instalar instancias de wordpress
-### 1. 
+### 1. Wordpress
 1.- Descomprimir el archivo instalador de wordpress `wordpress-6.5.4-es_MX.zip`en la carpeta `c:\xampp\htdocs` esto va a generar la carpeta `c:\xampp\htdocs\wordpress`.
 ![](https://i.imgur.com/QWa4YBx.png)
 
@@ -48,7 +50,7 @@ La versión al día de hoy es 6.5.4
 
 ![](https://i.imgur.com/0F79OQm.png)
 
-### Crear dos bases de datos en mysql
+### 2. Crear dos bases de datos en mysql
 
 |Bases de datos| Usuario |Password
 |--|--|--|
@@ -56,10 +58,11 @@ La versión al día de hoy es 6.5.4
 | beta | beta |beta#2024|
 
 
-### Configurar instancias de wordpress
+### 3. Configurar instancias de wordpress
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjg5MDIwNSwtNTUzMzQ4NjYwLDQ0Mz
-E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
-MTgxODU5MDIyMV19
+eyJoaXN0b3J5IjpbLTEwMTM5OTIyNTYsLTU1MzM0ODY2MCw0ND
+MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
+LDE4MTg1OTAyMjFdfQ==
 -->
