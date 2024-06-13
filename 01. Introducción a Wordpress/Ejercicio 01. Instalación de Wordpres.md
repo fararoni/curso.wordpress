@@ -1,7 +1,13 @@
 # Ejercicio 01. Instalación de Wordpres
 
 ## Recursos para descargar
-1.- Wordpress
+
+### 1. Wordpress.
+https://es-mx.wordpress.org/download/
+
+La versión al día de hoy es 6.5.4
+
+### 2. Xampp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODU3NjQwMF19
+eyJoaXN0b3J5IjpbLTExMDQ3OTE1NTVdfQ==
 -->
