@@ -80,11 +80,14 @@ La versión al día de hoy es 6.5.4
 1. Ingresar a http://localhost/alpha
 ![](https://i.imgur.com/Mv1cJaq.png)
 
-2. Agregar los datos de la base de datos
+2. Agregar los datos que solicita
+- Usar la base de datos: **alpha** 
+- Cambiar el prefijo de la tabla: **wpalpha_**
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg3NTM0MzksLTU1MzM0ODY2MCw0ND
-MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
-LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbMTcyNTk5NDk5OSwtNTUzMzQ4NjYwLDQ0Mz
+E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
+MTgxODU5MDIyMV19
 -->
