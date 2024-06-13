@@ -15,7 +15,11 @@ La versión al día de hoy es 6.5.4
 
 ## Instalacion
 1. Ejecutar el programa de instalación
-2. Aceptar e
+2. Aceptar el Warning, e instalar xampp en c;\xampp
+![warning](https://i.imgur.com/LzHqiFh.png)
+
+![Instalador](https://i.imgur.com/WEKE39y.png)
+3. Dejar activas únicamente las casillas de MySql, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ3MTk0OTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjIzNzI0NjFdfQ==
 -->
