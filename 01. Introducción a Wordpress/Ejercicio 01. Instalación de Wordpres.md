@@ -19,7 +19,14 @@ La versión al día de hoy es 6.5.4
 ![warning](https://i.imgur.com/LzHqiFh.png)
 
 ![Instalador](https://i.imgur.com/WEKE39y.png)
-3. Dejar activas únicamente las casillas de MySql, 
+3. Desactivar las siguientes casillas: 
+	- FileZilla FTP Server
+	 - Tomcat
+	 - Perl
+	 - Webalizer
+	 - 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjIzNzI0NjFdfQ==
+eyJoaXN0b3J5IjpbLTk3NTgyNjQ0MV19
 -->
