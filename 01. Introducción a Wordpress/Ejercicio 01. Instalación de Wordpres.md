@@ -69,16 +69,17 @@ La versión al día de hoy es 6.5.4
 
 
 **1. Seleccionar la opción de "Cuentas de usuarios".** y a contiinuación " **Agregar cuenta de usuario**"
-
+![](https://i.imgur.com/D8eRSUD.png)
 
 **2. Seleccionar la opción de "Cuentas de usuarios".**
 ![](https://i.imgur.com/pK7n2fz.png)
 
 ### 3. Configurar instancias de wordpress
 
+#### 3.1 Instancia ALPHA
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MzU2NzE3LC01NTMzNDg2NjAsNDQzMT
-cyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEsLTY2NTI4NDQyNSwx
-ODE4NTkwMjIxXX0=
+eyJoaXN0b3J5IjpbLTE0Nzg0MzUyNjMsLTU1MzM0ODY2MCw0ND
+MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
+LDE4MTg1OTAyMjFdfQ==
 -->
