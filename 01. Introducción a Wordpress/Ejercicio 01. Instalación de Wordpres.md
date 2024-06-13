@@ -51,7 +51,8 @@ La versión al día de hoy es 6.5.4
 
 ![](https://i.imgur.com/0F79OQm.png)
 
-![]()
+![](https://i.imgur.com/rb04bBq.png)
+
 
 ### 2. Crear dos bases de datos en mysql
 
@@ -66,7 +67,7 @@ La versión al día de hoy es 6.5.4
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNDYxNDE5MywtNTUzMzQ4NjYwLDQ0Mz
-E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
-MTgxODU5MDIyMV19
+eyJoaXN0b3J5IjpbLTE2MTc0NTIzMDMsLTU1MzM0ODY2MCw0ND
+MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
+LDE4MTg1OTAyMjFdfQ==
 -->
