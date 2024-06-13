@@ -1,5 +1,8 @@
 # Ejercicio 01. Instalación de Wordpres
-En el curso se van a instalar dos instancias de 
+En el curso se van a usar tres instancias de wordpress:
+1. alpha
+2. beta
+3. prod
 
 ## Recursos para descargar
 
@@ -34,5 +37,5 @@ La versión al día de hoy es 6.5.4
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzEwMzk0M119
+eyJoaXN0b3J5IjpbMTE1NDM2NzczOF19
 -->
