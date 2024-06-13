@@ -24,9 +24,14 @@ La versión al día de hoy es 6.5.4
 	 - Tomcat
 	 - Perl
 	 - Webalizer
-	 - 
+![Opciones de instalación](https://i.imgur.com/5DjAwxn.png)
+
+4. Dejar que se ejecute la instalación.
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTgyNjQ0MV19
+eyJoaXN0b3J5IjpbLTE4MTExNDk2MjZdfQ==
 -->
