@@ -17,7 +17,7 @@ La versión al día de hoy es 6.5.4
 
 ![Xampp](https://i.imgur.com/WMtuJ0j.png)
 
-## Instalacion
+## Instalacion de xampp
 1. Ejecutar el programa de instalación
 2. Aceptar el Warning, e instalar xampp en c;\xampp
 ![warning](https://i.imgur.com/LzHqiFh.png)
@@ -33,9 +33,10 @@ La versión al día de hoy es 6.5.4
 4. Iniciar la instalación.
 
 
-
+## Instalar instancias de wordpress
+1.- Descomprimir el archivo instalador de wordpress wordpress-6.5.4-es_MX.zip`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDM2NzczOF19
+eyJoaXN0b3J5IjpbMTcwNjM1MzY5NV19
 -->
