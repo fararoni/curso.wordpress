@@ -69,11 +69,12 @@ La versión al día de hoy es 6.5.4
 
 
 **1. Seleccionar la opción de "Cuentas de usuarios".** y a contiinuación " **Agregar cuenta de usuario**"
+- Nombre de host: local
+- Crear base de datos con el mismo nombre y otorgar todos los privilegios.: seleccionado
+- Privilegios globales Seleccionar todo
 
 ![](https://i.imgur.com/lTtg0Qz.png)
 
-**2. Seleccionar la opción de "Cuentas de usuarios".**
-![](https://i.imgur.com/pK7n2fz.png)
 
 ### 3. Configurar instancias de wordpress
 
@@ -88,7 +89,7 @@ La versión al día de hoy es 6.5.4
 ![](https://i.imgur.com/BCYkqX4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDI3MjAwOSwtNjI3NjI3NDc0LC01NT
+eyJoaXN0b3J5IjpbMTY0MDcwNTc0NiwtNjI3NjI3NDc0LC01NT
 MzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEs
 LTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
 -->
