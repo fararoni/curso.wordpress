@@ -80,16 +80,17 @@ La versión al día de hoy es 6.5.4
 
 #### 3.1 Instancia ALPHA
 1. Ingresar a http://localhost/alpha
-![]()
+![](https://i.imgur.com/b2LADon.png)
 
 2. Agregar los datos que solicita
+- Nombre de k
 - Usar la base de datos: **alpha** 
 - Cambiar el prefijo de la tabla: **wpalpha_**
 
 ![](https://i.imgur.com/BCYkqX4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDcwNTc0NiwtNjI3NjI3NDc0LC01NT
-MzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEs
-LTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
+eyJoaXN0b3J5IjpbLTE4MzY3NjI3NjEsLTYyNzYyNzQ3NCwtNT
+UzMzQ4NjYwLDQ0MzE3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDEx
+LC02NjUyODQ0MjUsMTgxODU5MDIyMV19
 -->
