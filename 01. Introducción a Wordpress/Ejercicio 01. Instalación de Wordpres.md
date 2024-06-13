@@ -77,9 +77,14 @@ La versión al día de hoy es 6.5.4
 ### 3. Configurar instancias de wordpress
 
 #### 3.1 Instancia ALPHA
+1. Ingresar a http://localhost/alpha
+![](https://i.imgur.com/Mv1cJaq.png)
+
+2. Agregar los datos de la base de datos
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg0MzUyNjMsLTU1MzM0ODY2MCw0ND
+eyJoaXN0b3J5IjpbLTEzMjg3NTM0MzksLTU1MzM0ODY2MCw0ND
 MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
 LDE4MTg1OTAyMjFdfQ==
 -->
