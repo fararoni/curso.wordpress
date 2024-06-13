@@ -69,6 +69,7 @@ La versión al día de hoy es 6.5.4
 
 
 **1. Seleccionar la opción de "Cuentas de usuarios".** y a contiinuación " **Agregar cuenta de usuario**"
+
 ![](https://i.imgur.com/lTtg0Qz.png)
 
 **2. Seleccionar la opción de "Cuentas de usuarios".**
@@ -78,7 +79,7 @@ La versión al día de hoy es 6.5.4
 
 #### 3.1 Instancia ALPHA
 1. Ingresar a http://localhost/alpha
-![](https://i.imgur.com/Mv1cJaq.png)
+![]()
 
 2. Agregar los datos que solicita
 - Usar la base de datos: **alpha** 
@@ -87,7 +88,7 @@ La versión al día de hoy es 6.5.4
 ![](https://i.imgur.com/BCYkqX4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTQ2MzQwNywtNjI3NjI3NDc0LC01NT
+eyJoaXN0b3J5IjpbMTE4NDI3MjAwOSwtNjI3NjI3NDc0LC01NT
 MzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEs
 LTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
 -->
