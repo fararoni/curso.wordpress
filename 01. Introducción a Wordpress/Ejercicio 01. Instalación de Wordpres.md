@@ -95,11 +95,11 @@ La versión al día de hoy es 6.5.4
 
 > Es importante no usar lo usuarios comunes: admin, administrador,
 > administrator, ni un nombre que relacione con la identidad del
-> usuario. Altera
+> usuario. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg0Mjc3MTQsNjExNjIzNDUxLC02Mj
-c2Mjc0NzQsLTU1MzM0ODY2MCw0NDMxNzIxLC0zNjg3MTgzMTIs
-MTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbODQzNDk0MzQ1LDYxMTYyMzQ1MSwtNjI3Nj
+I3NDc0LC01NTMzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEy
+MjY0NjU0MTEsLTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
 -->
