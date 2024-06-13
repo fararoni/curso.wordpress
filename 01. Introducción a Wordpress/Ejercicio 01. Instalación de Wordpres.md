@@ -1,6 +1,7 @@
 # Ejercicio 01. Instalación de Wordpres
 
-1.- 
+## Recursos para descargar
+1.- Wordpress
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMTY0MTM3XX0=
+eyJoaXN0b3J5IjpbLTg4ODU3NjQwMF19
 -->
