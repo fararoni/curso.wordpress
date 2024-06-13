@@ -55,6 +55,9 @@ La versión al día de hoy es 6.5.4
 
 
 ### 2. Crear dos bases de datos en mysql
+1. Ingresar a phpMyAdmin para crear las dos bases de datos:
+
+2. Crear las dos bases de datos:
 
 |Bases de datos| Usuario |Password
 |--|--|--|
@@ -67,7 +70,7 @@ La versión al día de hoy es 6.5.4
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc0NTIzMDMsLTU1MzM0ODY2MCw0ND
+eyJoaXN0b3J5IjpbLTIwODAzNzc2MDksLTU1MzM0ODY2MCw0ND
 MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
 LDE4MTg1OTAyMjFdfQ==
 -->
