@@ -79,18 +79,21 @@ La versión al día de hoy es 6.5.4
 ### 3. Configurar instancias de wordpress
 
 #### 3.1 Instancia ALPHA
+**Configuración de la base de datos**
 1. Ingresar a http://localhost/alpha
 ![](https://i.imgur.com/b2LADon.png)
 
 2. Agregar los datos que solicita
+
 - Nombre de la base de datos: **alpha**
 - Usar la base de datos: **alpha** 
 - Cambiar el prefijo de la tabla: **wpalpha_**
 
 ![](https://i.imgur.com/QY6mV1k.png)
+![](https://i.imgur.com/7gxXxdV.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExNjIzNDUxLC02Mjc2Mjc0NzQsLTU1Mz
-M0ODY2MCw0NDMxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwt
-NjY1Mjg0NDI1LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbODI2MDI0LDYxMTYyMzQ1MSwtNjI3NjI3ND
+c0LC01NTMzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0
+NjU0MTEsLTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
 -->
