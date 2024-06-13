@@ -51,6 +51,8 @@ La versión al día de hoy es 6.5.4
 
 ![](https://i.imgur.com/0F79OQm.png)
 
+![]()
+
 ### 2. Crear dos bases de datos en mysql
 
 |Bases de datos| Usuario |Password
@@ -64,7 +66,7 @@ La versión al día de hoy es 6.5.4
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzE0NTAzNTUsLTU1MzM0ODY2MCw0ND
-MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
-LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbMjAwNDYxNDE5MywtNTUzMzQ4NjYwLDQ0Mz
+E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
+MTgxODU5MDIyMV19
 -->
