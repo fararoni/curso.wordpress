@@ -70,13 +70,13 @@ La versión al día de hoy es 6.5.4
 ![](https://i.imgur.com/Lwndgzj.png)
 
 ![](https://i.imgur.com/mJt0LX7.png)
-![](https://i.imgur.com/sOn7VXw.png)
+![](https://i.imgur.com/pK7n2fz.png)
 
 ### 3. Configurar instancias de wordpress
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjczMTY2NTMsLTU1MzM0ODY2MCw0ND
-MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
-LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbLTY5Mjg3MTQ3MywtNTUzMzQ4NjYwLDQ0Mz
+E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
+MTgxODU5MDIyMV19
 -->
