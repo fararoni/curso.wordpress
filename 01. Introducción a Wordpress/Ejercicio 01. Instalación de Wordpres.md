@@ -1,4 +1,5 @@
 # Ejercicio 01. Instalación de Wordpres
+En el curso se van a instalar dos instancias de 
 
 ## Recursos para descargar
 
@@ -26,12 +27,12 @@ La versión al día de hoy es 6.5.4
 	 - Webalizer
 ![Opciones de instalación](https://i.imgur.com/5DjAwxn.png)
 
-4. Dejar que se ejecute la instalación.
+4. Iniciar la instalación.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTExNDk2MjZdfQ==
+eyJoaXN0b3J5IjpbMTA0MzEwMzk0M119
 -->
