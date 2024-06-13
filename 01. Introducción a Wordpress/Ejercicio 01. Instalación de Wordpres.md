@@ -83,14 +83,14 @@ La versión al día de hoy es 6.5.4
 ![](https://i.imgur.com/b2LADon.png)
 
 2. Agregar los datos que solicita
-- Nombre de k
+- Nombre de la base de datos: **alpha**
 - Usar la base de datos: **alpha** 
 - Cambiar el prefijo de la tabla: **wpalpha_**
 
-![](https://i.imgur.com/BCYkqX4.png)
+![](https://i.imgur.com/QY6mV1k.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3NjI3NjEsLTYyNzYyNzQ3NCwtNT
-UzMzQ4NjYwLDQ0MzE3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDEx
-LC02NjUyODQ0MjUsMTgxODU5MDIyMV19
+eyJoaXN0b3J5IjpbNjExNjIzNDUxLC02Mjc2Mjc0NzQsLTU1Mz
+M0ODY2MCw0NDMxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwt
+NjY1Mjg0NDI1LDE4MTg1OTAyMjFdfQ==
 -->
