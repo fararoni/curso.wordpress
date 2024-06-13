@@ -52,14 +52,13 @@ La versión al día de hoy es 6.5.4
 |Bases de datos| Usuario |Password
 |--|--|--|
 |alpha| alpha| alpha#2024|
-| beta | beta |alpha#2024|
-
+| beta | beta |beta#2024|
 
 
 ### Configurar instancias de wordpress
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjk0OTgzOCw0NDMxNzIxLC0zNjg3MT
+eyJoaXN0b3J5IjpbLTU1MzM0ODY2MCw0NDMxNzIxLC0zNjg3MT
 gzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MTg1OTAyMjFd
 fQ==
 -->
