@@ -55,7 +55,10 @@ La versión al día de hoy es 6.5.4
 
 
 ### 2. Crear dos bases de datos en mysql
+
 1. Ingresar a phpMyAdmin para crear las dos bases de datos:
+![](https://i.imgur.com/T8GQTt8.png)
+
 
 2. Crear las dos bases de datos:
 
@@ -64,13 +67,14 @@ La versión al día de hoy es 6.5.4
 |alpha| alpha| alpha#2024|
 | beta | beta |beta#2024|
 
+![](https://i.imgur.com/Lwndgzj.png)
 
 
 ### 3. Configurar instancias de wordpress
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAzNzc2MDksLTU1MzM0ODY2MCw0ND
-MxNzIxLC0zNjg3MTgzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1
-LDE4MTg1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbNzM3NDYwMTA3LC01NTMzNDg2NjAsNDQzMT
+cyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEsLTY2NTI4NDQyNSwx
+ODE4NTkwMjIxXX0=
 -->
