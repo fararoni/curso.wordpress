@@ -46,7 +46,10 @@ La versión al día de hoy es 6.5.4
 3. Hacer una copia de la carpeta alpha y renombrarla con el nombre `beta`
 
 ![](https://i.imgur.com/0F79OQm.png)
+
+### Configurar instancias de wordpress
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjE0NzU5NCwxMjI2NDY1NDExLC02Nj
+eyJoaXN0b3J5IjpbMTIwMjk1NDAyMCwxMjI2NDY1NDExLC02Nj
 UyODQ0MjUsMTgxODU5MDIyMV19
 -->
