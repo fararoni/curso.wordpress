@@ -35,9 +35,10 @@ La versión al día de hoy es 6.5.4
 
 ## Instalar instancias de wordpress
 1.- Descomprimir el archivo instalador de wordpress `wordpress-6.5.4-es_MX.zip`en la carpeta `c:\xampp\htdocs` esto va a generar la carpeta `c:\xampp\htdocs\wordpress`.
+![](https://i.imgur.com/QWa4YBx.png)
 
+*La instalación tarda varios minutos*
 
-La instalación tarda varios minutos
 ![Descomprimir wordpress](https://i.imgur.com/k3Hirrp.png)
 
 2. Renombre la carpeta para que quede con el siguiente nombre : `c:\xampp\htdocs\alpha`
@@ -46,6 +47,6 @@ La instalación tarda varios minutos
 
 ![](https://i.imgur.com/0F79OQm.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MT
-g1OTAyMjFdfQ==
+eyJoaXN0b3J5IjpbLTkxNjE0NzU5NCwxMjI2NDY1NDExLC02Nj
+UyODQ0MjUsMTgxODU5MDIyMV19
 -->
