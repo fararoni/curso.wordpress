@@ -1,4 +1,4 @@
-# Ejercicio 01. Instalación de Wordpres
+# Ejercicio 01. Instalación de Wordpress
 En el curso se van a usar tres instancias de wordpress:
 1. alpha
 2. beta
@@ -34,6 +34,7 @@ La versión al día de hoy es 6.5.4
 
 
 ## Instalar instancias de wordpress
+### 1. 
 1.- Descomprimir el archivo instalador de wordpress `wordpress-6.5.4-es_MX.zip`en la carpeta `c:\xampp\htdocs` esto va a generar la carpeta `c:\xampp\htdocs\wordpress`.
 ![](https://i.imgur.com/QWa4YBx.png)
 
@@ -58,7 +59,7 @@ La versión al día de hoy es 6.5.4
 ### Configurar instancias de wordpress
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzM0ODY2MCw0NDMxNzIxLC0zNjg3MT
-gzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MTg1OTAyMjFd
-fQ==
+eyJoaXN0b3J5IjpbMTUzMjg5MDIwNSwtNTUzMzQ4NjYwLDQ0Mz
+E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
+MTgxODU5MDIyMV19
 -->
