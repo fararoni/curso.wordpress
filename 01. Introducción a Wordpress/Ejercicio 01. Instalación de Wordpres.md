@@ -69,7 +69,7 @@ La versión al día de hoy es 6.5.4
 
 
 **1. Seleccionar la opción de "Cuentas de usuarios".** y a contiinuación " **Agregar cuenta de usuario**"
-![](https://i.imgur.com/D8eRSUD.png)
+![](https://i.imgur.com/lTtg0Qz.png)
 
 **2. Seleccionar la opción de "Cuentas de usuarios".**
 ![](https://i.imgur.com/pK7n2fz.png)
@@ -87,7 +87,7 @@ La versión al día de hoy es 6.5.4
 ![](https://i.imgur.com/BCYkqX4.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzYyNzQ3NCwtNTUzMzQ4NjYwLDQ0Mz
-E3MjEsLTM2ODcxODMxMiwxMjI2NDY1NDExLC02NjUyODQ0MjUs
-MTgxODU5MDIyMV19
+eyJoaXN0b3J5IjpbLTU5OTQ2MzQwNywtNjI3NjI3NDc0LC01NT
+MzNDg2NjAsNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0NjU0MTEs
+LTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
 -->
