@@ -42,7 +42,10 @@ La instalación tarda varios minutos
 
 2. Renombre la carpeta para que quede con el siguiente nombre : `c:\xampp\htdocs\alpha`
 
+3. Hacer una copia de la carpeta alpha y renombrarla con el nombre `beta`
 
+![](https://i.imgur.com/0F79OQm.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
+eyJoaXN0b3J5IjpbMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MT
+g1OTAyMjFdfQ==
 -->
