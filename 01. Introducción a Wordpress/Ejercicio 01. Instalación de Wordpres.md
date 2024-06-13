@@ -13,6 +13,9 @@ La versión al día de hoy es 6.5.4
 
 ![Xampp](https://i.imgur.com/WMtuJ0j.png)
 
+## Instalacion
+1. Ejecutar el programa de instalación
+2. Aceptar e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0MDg3NjBdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ3MTk0OTBdfQ==
 -->
