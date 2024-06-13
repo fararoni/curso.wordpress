@@ -49,16 +49,17 @@ La versión al día de hoy es 6.5.4
 
 ### Crear dos bases de datos en mysql
 
-|Bases de datos| Usuario |
-|--|--|
-|alpha| alpha| 
-| beta | beta |
+|Bases de datos| Usuario |Password
+|--|--|--|
+|alpha| alpha| alpha#2024|
+| beta | beta |alpha#2024|
 
 
 
 ### Configurar instancias de wordpress
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMTcyMSwtMzY4NzE4MzEyLDEyMjY0Nj
-U0MTEsLTY2NTI4NDQyNSwxODE4NTkwMjIxXX0=
+eyJoaXN0b3J5IjpbMjAyMjk0OTgzOCw0NDMxNzIxLC0zNjg3MT
+gzMTIsMTIyNjQ2NTQxMSwtNjY1Mjg0NDI1LDE4MTg1OTAyMjFd
+fQ==
 -->
